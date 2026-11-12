@@ -1,0 +1,65 @@
+{
+ "mssv": "2A202603213",
+ "ten": "LeTrungTa",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "trungta",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000019754.jpg",
+  "000000021235.jpg",
+  "000000295358.jpg",
+  "000000336477.jpg",
+  "000000431893.jpg",
+  "000000078170.jpg",
+  "000000189365.jpg",
+  "000000467300.jpg",
+  "000000480582.jpg",
+  "000000515309.jpg",
+  "000000167027.jpg",
+  "000000326480.jpg"
+ ],
+ "faces": [
+  "face_204787.jpg",
+  "face_261458.jpg",
+  "face_300399.jpg",
+  "face_185015.jpg",
+  "face_449454.jpg",
+  "face_81239.jpg",
+  "face_294580.jpg",
+  "face_38721.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 6,
+   "job_id": 6,
+   "task_name": "persons-LeTrungTa"
+  },
+  "faces": {
+   "task_id": 7,
+   "job_id": 7,
+   "task_name": "faces-LeTrungTa"
+  },
+  "persons-extra": {
+   "task_id": 8,
+   "job_id": 8,
+   "task_name": "persons-extra-LeTrungTa"
+  },
+  "faces-extra": {
+   "task_id": 9,
+   "job_id": 9,
+   "task_name": "faces-extra-LeTrungTa"
+  }
+ },
+ "persons_extra": [
+  "000000213506.jpg",
+  "000000323525.jpg",
+  "000000565600.jpg"
+ ],
+ "faces_extra": [
+  "face_102517.jpg",
+  "face_274219.jpg",
+  "face_280788.jpg",
+  "face_317330.jpg",
+  "face_507166.jpg"
+ ]
+}
